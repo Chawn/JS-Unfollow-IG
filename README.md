@@ -8,3 +8,15 @@
 - กด Enter
 
 ปล.IG จำกัดการเลิกติดตามที่ 200 Account ต่อวัน
+
+---
+
+- Open Ig profile on Website
+- Open "Following"
+- Right Click > Inspect 
+- Go to Console Panel
+- Paste code
+- Press Enter
+
+PS: IG Limit Unfollow 200 account per day
+
